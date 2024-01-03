@@ -1,4 +1,4 @@
-# Hi💫 I am Rishabh Kumar: <img align="left"> [![](https://visitcount.itsvg.in/api?id=hrishabhsingh1n&icon=0&color=0)](https://visitcount.itsvg.in) </img>
+# Hi💫 I am Rishabh Kumar:  
 <h3>A passionate front-end developer from India</h3> <br>
 
 🌱 I’m currently learning Full-Stack development, Frameworks, and Database Management<br><br>👨‍💻 All of my projects are available on [GitHub](https://github.com/hrishabhsingh1n)<br><br>💬 Ask me about Python, HTML, CSS, Java, JavaScript, React.js, MySQL<br><br>📫 How to reach me [WhatsApp](https://wa.me/+918651004536/) & [Email](mailto:hrishabhsingh1n@gmail.com) me i will try to reply you as soon as possible. <br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ikdg_aZbk_oHq-NioHA3-T_3C_fROy7i/view?usp=sharing)<br><br>⚡ Fun fact Yes I am funny😁
@@ -20,6 +20,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hrishabhsingh1n&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+-----
+[![](https://visitcount.itsvg.in/api?id=hrishabhsingh1n&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
   ## 💰 You can help me by Donating
