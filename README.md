@@ -1,5 +1,5 @@
 # Hi💫 I am Rishabh Kumar:
-🌱 I’m currently learning Full-Stack development, Frameworks, and Database Management<br><br>👨‍💻 All of my projects are available on [GitHub](https://github.com/hrishabhsingh1n/)<br><br>💬 Ask me about Python, HTML, CSS, Java, JavaScript, React.js, MySQL<br><br>📫 How to reach me [Email me](mailto:hrishabhsingh1n@gmail.com)<br><br>📄 Know about my experiences [Resume}(https://drive.google.com/file/d/1Ikdg_aZbk_oHq-NioHA3-T_3C_fROy7i/view?usp=sharing)<br><br>⚡ Fun fact Yes I am funny😁
+🌱 I’m currently learning Full-Stack development, Frameworks, and Database Management<br><br>👨‍💻 All of my projects are available on [GitHub](https://github.com/hrishabhsingh1n/)<br><br>💬 Ask me about Python, HTML, CSS, Java, JavaScript, React.js, MySQL<br><br>📫 How to reach me [Email me](mailto:hrishabhsingh1n@gmail.com)<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ikdg_aZbk_oHq-NioHA3-T_3C_fROy7i/view?usp=sharing)<br><br>⚡ Fun fact Yes I am funny😁
 
 
 ## 🌐 Socials:
