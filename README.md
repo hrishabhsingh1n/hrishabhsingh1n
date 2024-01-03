@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
+<div align="center"> <img src="https://github.com/hrishabhsingh1n/hrishabhsingh1n/blob/main/ui.png"> </div>
 <h3 align="center">A passionate front-end developer, who crafts seamless digital experiences. Code enthusiast, UI/UX advocate, and problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishabhsingh1n&label=Profile%20views&color=0e75b6&style=flat" alt="hrishabhsingh1n" /> </p>
