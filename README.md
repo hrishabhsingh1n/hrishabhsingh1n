@@ -1,5 +1,5 @@
 # Hi💫 I am Rishabh Kumar: 
-  <div align="left"> href="https://www.buymeacoffee.com/hrishabhsingh1n"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hrishabhsingh1n&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></div>
+  <div align="left"> <a> href="https://www.buymeacoffee.com/hrishabhsingh1n"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hrishabhsingh1n&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a></div>
 🌱 I’m currently learning Full-Stack development, Frameworks, and Database Management<br><br>👨‍💻 All of my projects are available on [GitHub](https://github.com/hrishabhsingh1n/)<br><br>💬 Ask me about Python, HTML, CSS, Java, JavaScript, React.js, MySQL<br><br>📫 How to reach me [Email me](mailto:hrishabhsingh1n@gmail.com)<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ikdg_aZbk_oHq-NioHA3-T_3C_fROy7i/view?usp=sharing)<br><br>⚡ Fun fact Yes I am funny😁
 
 
