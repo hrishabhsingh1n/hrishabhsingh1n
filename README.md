@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Full-Stack development, Frameworks, Database Management**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hrishabhsingh1n/](https://github.com/hrishabhsingh1n/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/hrishabhsingh1n/)
 
 - 💬 Ask me about **Python, HTML, CSS, Java, JavaScript, React.js, MySQL**
 
-- 📫 How to reach me **hrishabhsingh1n@gmail.com**
+- 📫 How to reach me [Email me](mailto:hrishabhsingh1n@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ikdg_aZbk_oHq-NioHA3-T_3C_fROy7i/view?usp=sharing)
 
