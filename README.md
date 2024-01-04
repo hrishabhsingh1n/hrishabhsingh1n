@@ -1,5 +1,5 @@
 # Hi💫 I am Rishabh Kumar: <h2>A passionate front-end developer from India</h2> <br>
-🌱 I’m currently learning Full-Stack development, Frameworks, and Database Management<br><br>👨‍💻 All of my projects are available on [GitHub](https://github.com/hrishabhsingh1n)<br><br>💬 Ask me about Python, HTML, CSS, Java, JavaScript, React.js, MySQL<br><br>📫 How to reach me [WhatsApp](https://wa.me/+918651004536/) & [Email](mailto:hrishabhsingh1n@gmail.com) me i will try to reply you as soon as possible. <br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ikdg_aZbk_oHq-NioHA3-T_3C_fROy7i/view?usp=sharing)<br><br>⚡ Fun fact Yes I am funny😁
+🌱 I’m currently learning Full-Stack development, Frameworks, and Database Management<br><br>👨‍💻 All of my projects are available on [GitHub]([https://github.com/hrishabhsingh1n](https://github.com/hrishabhsingh1n?tab=repositories)<br><br>💬 Ask me about Python, HTML, CSS, Java, JavaScript, React.js, MySQL<br><br>📫 How to reach me [WhatsApp](https://wa.me/+918651004536/) & [Email](mailto:hrishabhsingh1n@gmail.com) me i will try to reply you as soon as possible. <br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ikdg_aZbk_oHq-NioHA3-T_3C_fROy7i/view?usp=sharing)<br><br>⚡ Fun fact Yes I am funny😁
 
 
 ## 🌐 Socials:
