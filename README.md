@@ -1,5 +1,13 @@
 # Hi there 👋:
-🔭 I’m currently working on AI training projects, focusing on enhancing machine learning models through effective data annotation and evaluation.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning frontend development, Python, Django, and Figma to broaden my skills and enhance my project offerings.<br>💬 Ask me about my experiences in data annotation and quality assurance for AI training, or my passion for photography and how I capture those moments.<br>⚡A fun fact about me is that I have a keen interest in nature photography, and I once spent an entire afternoon waiting for the perfect shot of a butterfly emerging from its chrysalis!
+🔭 I’m currently working on AI training projects, focusing on enhancing machine learning models through effective data annotation and evaluation.
+
+👯 I’m looking to collaborate</br> 
+
+🌱 I’m currently learning frontend development, Python, Django, and Figma to broaden my skills and enhance my project offerings.<br>
+
+💬 Ask me about my experiences in data annotation and quality assurance for AI training, or my passion for photography and how I capture those moments.<br>
+
+⚡A fun fact about me is that I have a keen interest in nature photography, and I once spent an entire afternoon waiting for the perfect shot of a butterfly emerging from its chrysalis!
 
 
 ## 🌐 Socials:
