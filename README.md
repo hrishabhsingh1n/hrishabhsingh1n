@@ -1,4 +1,4 @@
-# Hi there 👋:
+<div align="center"><h1> Hi  👋 I am Rishabh Kumar </h1> </div>
 🔭 I’m currently working on AI training projects, focusing on enhancing machine learning models through effective data annotation and evaluation.
 
 👯 I’m looking to collaborate</br> 
